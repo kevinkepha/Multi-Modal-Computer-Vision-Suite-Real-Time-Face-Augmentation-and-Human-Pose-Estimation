@@ -1,5 +1,4 @@
 
-```markdown
 # MultiModal Computer Vision Suite: RealTime Face Augmentation and Human Pose Estimation
 
 A productionready demonstration of **realtime, humancentric computer vision**:
@@ -101,6 +100,11 @@ python app.py
 * Add **Object Detection** tab (YOLOv8) with custom labels/analytics.
 * Stream to RTSP/RTMP sinks or embed in a FastAPI service for deployment.
 
+
+
+## 📝 License
+
+MIT — free for commercial and personal use. Attribution appreciated.
 
 
 
